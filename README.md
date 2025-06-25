@@ -18,6 +18,7 @@
 1. Navegue até o diretório:
 
 2. cd C:\Users\kelvi\AgenteCSV_Novo
+###(ou o caminho aonde você colocou o clone do repositorio.)
 
 2. Execute o script:
 
