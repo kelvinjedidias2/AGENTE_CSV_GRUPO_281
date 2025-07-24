@@ -1,0 +1,41 @@
+2025-06-29 14:35:25,252 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-29 14:39:07,339 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-29 14:52:12,118 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-30 16:39:57,835 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-30 16:39:57,888 - INFO - Retrying request to /chat/completions in 0.378912 seconds
+2025-06-30 16:39:59,540 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-30 16:39:59,541 - INFO - Retrying request to /chat/completions in 0.903557 seconds
+2025-06-30 16:40:03,432 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-30 16:40:03,517 - ERROR - Erro na API: Error code: 429 - {'error': {'message': 'Request too large for gpt-4-turbo-preview in organization org-UxTLeCR1CJLcts5i3XagWLvC on tokens per min (TPM): Limit 30000, Requested 179040. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-06-30 16:42:27,670 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-30 16:42:27,692 - INFO - Retrying request to /chat/completions in 0.469255 seconds
+2025-06-30 16:42:30,174 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-30 16:42:30,176 - INFO - Retrying request to /chat/completions in 0.784025 seconds
+2025-06-30 16:42:33,552 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-30 16:42:33,591 - ERROR - Erro na API: Error code: 429 - {'error': {'message': 'Request too large for gpt-4-turbo-preview in organization org-UxTLeCR1CJLcts5i3XagWLvC on tokens per min (TPM): Limit 30000, Requested 179037. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-06-30 16:43:13,404 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-30 16:43:13,406 - INFO - Retrying request to /chat/completions in 0.386762 seconds
+2025-06-30 16:43:14,715 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-30 16:43:14,733 - INFO - Retrying request to /chat/completions in 0.951830 seconds
+2025-06-30 16:43:17,227 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-30 16:43:17,282 - ERROR - Erro na API: Error code: 429 - {'error': {'message': 'Request too large for gpt-4-turbo-preview in organization org-UxTLeCR1CJLcts5i3XagWLvC on tokens per min (TPM): Limit 30000, Requested 179036. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-06-30 16:44:19,661 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-04 17:51:26,559 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-04 17:54:57,036 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-04 17:56:27,519 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 23:09:04,211 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 23:11:30,243 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-10 23:11:30,256 - INFO - Retrying request to /chat/completions in 0.483425 seconds
+2025-07-10 23:11:32,902 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-10 23:11:32,903 - INFO - Retrying request to /chat/completions in 0.759700 seconds
+2025-07-10 23:11:35,985 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-10 23:11:36,156 - ERROR - Erro na API: Error code: 429 - {'error': {'message': 'Request too large for gpt-4-turbo-preview in organization org-UxTLeCR1CJLcts5i3XagWLvC on tokens per min (TPM): Limit 30000, Requested 179035. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-07-10 23:12:19,597 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-10 23:12:19,599 - INFO - Retrying request to /chat/completions in 0.403558 seconds
+2025-07-10 23:12:21,466 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-10 23:12:21,467 - INFO - Retrying request to /chat/completions in 0.953753 seconds
+2025-07-10 23:12:23,896 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-07-10 23:12:23,970 - ERROR - Erro na API: Error code: 429 - {'error': {'message': 'Request too large for gpt-4-turbo-preview in organization org-UxTLeCR1CJLcts5i3XagWLvC on tokens per min (TPM): Limit 30000, Requested 179035. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+2025-07-11 01:04:30,611 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 22:53:20,910 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-23 22:53:37,059 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
