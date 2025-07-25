@@ -1,9 +1,0 @@
-2025-06-29 14:09:42,829 - INFO - Arquivo carregado: 202401_NFs_Cabecalho.csv (100 registros, 21 colunas)
-2025-06-29 14:11:28,918 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-06-29 14:14:15,472 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-06-29 14:17:00,268 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-07-04 17:25:21,214 - ERROR - Arquivo não encontrado: 
-2025-07-04 17:26:32,552 - INFO - Arquivo carregado: 202401_NFs_Cabecalho.csv (100 registros, 21 colunas)
-2025-07-04 17:27:15,707 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-07-04 17:31:50,780 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-07-04 17:39:30,959 - ERROR - Arquivo não encontrado: 5
